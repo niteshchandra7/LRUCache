@@ -1,0 +1,1 @@
+g++ CacheNode.cpp LRUCache.cpp main.cpp -std=c++17 -o lru && ./lru 
